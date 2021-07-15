@@ -7,3 +7,9 @@
 4. Connect to `http://localhost:8000` using your favorite web browser (Chrome, Safari, etc).
 
 _We may need to add steps about initializing the db later_
+
+NOTE: This was a final project completed by myself with the contributions of my collegues. Their github links can be found below.
+https://github.com/ngearhart/
+https://github.com/DustGuppy
+https://github.com/noahwg
+https://github.com/Nick-Ea
